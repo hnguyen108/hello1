@@ -14,5 +14,9 @@
 
      printf("Actuarial Science\n");
 
+     printf("Felicity Sierra\n");
+
+     printf("Computer Engineering");
+
      return 0;
  }
