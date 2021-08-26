@@ -12,5 +12,7 @@
 
      printf("Hoa Nguyen\n");
 
+     printf("Actuarial Science\n");
+
      return 0;
  }
