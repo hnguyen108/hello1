@@ -16,7 +16,7 @@
 
      printf("Felicity Sierra\n");
 
-     printf("Computer Engineering");
+     printf("Computer Engineering\n");
 
      return 0;
  }
